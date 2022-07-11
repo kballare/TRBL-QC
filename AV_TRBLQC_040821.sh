@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#degraded and ancient DNA QC pipeline - mostly copied from Alisa's aDNA_qc.sh and adapted for redser4
+#degraded and ancient DNA QC pipeline for Illumina NextSeq Data - mostly copied from Alisa's aDNA_qc.sh and adapted for redser4
 #last edit KB 2021Apr8
 		#modified TRBLQC_040521.sh added -S flag to seqprep
 # for now, remove MIA analysis
